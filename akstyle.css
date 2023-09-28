@@ -1,0 +1,46 @@
+/* This is AKK Stylesheet */
+
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.lgin{
+
+    background-color: #4CAF50;
+    border: dotted;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    float: none;
+} 
+
+.lgout{
+    background-color: #b11a14;
+    border: dotted;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    float: none;
+}
+
+.aktime{
+    font-size: 30px;
+}
+#tme{
+   color: #595bc5;
+}
+
